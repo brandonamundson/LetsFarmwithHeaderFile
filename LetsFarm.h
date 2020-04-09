@@ -1,3 +1,13 @@
+/***************************************************************************//**
+ * @file 
+ * 
+ * @brief This file contains all the functions prototypes used in this
+ * interactive fiction game.  It also includes all of the STL libraries needed.
+ * 
+ *
+ * @author Brandon Amundson
+ * 
+ ******************************************************************************/
 #pragma once
 #include <iostream> // input/output library
 #include <string> // used to create string variables

@@ -1,6 +1,6 @@
 /***************************************************************************//**
  * @file
- * @brief Interactive Farming Game
+ * @brief Interactive Farming Game using Multiple Files
  *
  * @mainpage Program: Lets Farm
  *
@@ -25,7 +25,6 @@
  * Interactive Farming Fiction Game.
  *
  *
- *
  * @section compile_section Compiling and Usage
  *
  * @par Compiling Instructions:
@@ -48,10 +47,12 @@
    Date          Modification
    ------------  ---------------------------------------------------------------
    Feb 27, 2020  Started with a template file, had a few functions and modified
-				 as necessary
+			  as necessary
    Mar 02, 2020  Wrote the storyline and reworked template file to put all
-				 functions going through main as required by the assignment.
-				 Added documentation to code and finished the assignment.
+			  functions going through main as required by the assignment.
+			  Added documentation to code and finished the assignment.
+   Apr 09, 2020  Put the main function in its own file and added the header file
+			  with the STL libraries and function prototypes.
 
    @endverbatim
  *

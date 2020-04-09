@@ -1,3 +1,13 @@
+/***************************************************************************//**
+ * @file 
+ * 
+ * @brief This file contains all the functions required for this interactive 
+ * fiction game.  
+ * 
+ *
+ * @author Brandon Amundson
+ * 
+ ******************************************************************************/
 #pragma once
 #include "LetsFarm.h"
 
